@@ -1,0 +1,7 @@
+{
+  "name": "penis",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
